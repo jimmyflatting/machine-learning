@@ -1,17 +1,17 @@
 # Machine Learning Projects with PyTorch
 
-This repository contains a collection of machine learning projects implemented using PyTorch. These projects are designed to help you learn PyTorch, Python, and machine learning concepts. They cover a wide range of applications and difficulty levels.
+This repository contains a collection of machine learning projects implemented using [PyTorch](https://pytorch.org/). These projects are designed to help you learn PyTorch, Python, and machine learning concepts. They cover a wide range of applications and difficulty levels.
 
 ## Projects
 
 1. **Text Classification with RNN/LSTM:**
    - Description: Build a text classification model using recurrent neural networks (RNNs) or long short-term memory networks (LSTMs).
-   - Dataset: IMDb for sentiment analysis.
+   - Dataset: [IMDb for sentiment analysis](https://pytorch.org/vision/main/datasets.html).
    - Difficulty: Beginner.
 
 2. **Image Classification with CNN:**
    - Description: Create an image classification model using convolutional neural networks (CNNs).
-   - Datasets: MNIST, CIFAR-10.
+   - Datasets: [MNIST, CIFAR-10](https://pytorch.org/vision/main/datasets.html).
    - Difficulty: Beginner.
 
 3. **Chatbot with Seq2Seq Models:**
@@ -24,7 +24,7 @@ This repository contains a collection of machine learning projects implemented u
 
 5. **Reinforcement Learning with OpenAI Gym:**
    - Description: Create an agent that learns to play games or perform tasks using reinforcement learning.
-   - Environment: OpenAI Gym.
+   - Environment: [OpenAI Gym](https://github.com/openai/gym).
    - Difficulty: Intermediate.
 
 6. **Time Series Prediction:**
