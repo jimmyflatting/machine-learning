@@ -6,7 +6,7 @@ This repository contains a collection of machine learning projects implemented u
 
 1. **Text Classification with RNN/LSTM:**
    - Description: Build a text classification model using recurrent neural networks (RNNs) or long short-term memory networks (LSTMs).
-   - Dataset: [IMDb for sentiment analysis](https://pytorch.org/vision/main/datasets.html).
+   - Dataset: [IMDb for sentiment analysis](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews).
    - Difficulty: Beginner.
 
 2. **Image Classification with CNN:**
